@@ -18,3 +18,13 @@ Given Servals Code for The Termux Modification.
 
 
 7.For remove tool cd ~/T-header && bash t-header.sh --remove && exit
+
+
+#YouTube
+
+IT Lab With Vicky 
+
+https://youtube.com/@ITlabwithvicky
+
+
+Subscribe For more...
